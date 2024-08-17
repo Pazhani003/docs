@@ -1,6 +1,6 @@
 ---
 title: Roles in an organization
-intro: Organization owners can assign roles to individuals and teams giving them different sets of permissions in the organization.
+intro: Organization owner can assign roles to individuals and teams giving them different sets of permissions in the organization.
 redirect_from:
   - /articles/permission-levels-for-an-organization-early-access-program
   - /articles/permission-levels-for-an-organization
@@ -213,7 +213,7 @@ Some of the features listed below are limited to organizations using {% data var
 
 {% rowheaders %}
 
-| Organization action | Owners | Members | Security managers |
+| Organization actions | Owners | Members | Security managers |
 |:--------------------|:------:|:-------:|:-------:|
 | Invite people to join the organization | {% octicon "check" aria-label="Yes" %} | {% octicon "x" aria-label="No" %} |{% octicon "x" aria-label="No" %}  |
 | Edit and cancel invitations to join the organization | {% octicon "check" aria-label="Yes" %} | {% octicon "x" aria-label="No" %} | {% octicon "x" aria-label="No" %} |
